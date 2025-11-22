@@ -334,4 +334,12 @@ DoS/DDoS vs high traffic required time-series pattern recognition.<br>
 <p align="left">Overall, the project successfully meets its objectives by providing a practical, automated, and insightful intrusion detection tool, laying the groundwork for future enhancements such as real-time monitoring, ML-based anomaly detection, and integration with threat intelligence platforms.</p><br>
 <br>
 <br>
+
+### References:<br>
 <br>
+
+• Log Files Analysis For Network Intrusion Detection - <strong>IEEE Xplore, September, 2020<.strong><br>
+https://ieeexplore.ieee.org/document/9199976<br>
+<br>
+• Real Time Intrusion Detection System Based on Web Log File Analysis - <strong>Research Gate, February, 2025</strong><br>
+https://www.researchgate.net/publication/389699158_Real_Time_Intrusion_Detection_System_Based_on_Web_Log_File_Analysis
